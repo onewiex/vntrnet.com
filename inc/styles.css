@@ -1,0 +1,349 @@
+/* CSS Document */
+BODY {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background: #fff;
+}
+
+/* edit.com visible styles */
+
+.NormalText,
+body,
+td {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  color: #000;
+  font-weight: normal;
+  text-decoration: none;
+  text-transform: none;
+  font-style: normal;
+}
+
+.SmallText {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: #000;
+  font-weight: normal;
+}
+
+h3,
+.SubHeader {
+  color: #78a431;
+  font-size: 13px;
+  font-weight: bold;
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+h2,
+.Header {
+  color: #275179;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  margin: 0 0 10px 0;
+  padding: 0;
+}
+h1,
+.PageTitle {
+  color: #275179;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+
+IMG.FloatLeft {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+IMG.FloatRight {
+  float: right;
+  margin: 0 0 10px 10px;
+}
+
+TD.GrayTopBorder {
+  border-top: 1px solid #d8e9bb;
+}
+TD.GrayBottomBorder {
+  border-bottom: 1px solid #d8e9bb;
+}
+TD.GrayLeftBorder {
+  border-left: 1px solid #d8e9bb;
+}
+TD.GrayRightBorder {
+  border-right: 1px solid #d8e9bb;
+}
+
+TD.LeftGrayBorder {
+  border-left: 1px solid #d8e9bb;
+}
+
+TD.PadTop {
+  padding-top: 8px;
+}
+TD.PadBottom {
+  padding-bottom: 8px;
+}
+TD.PadLeft {
+  padding-left: 8px;
+}
+TD.PadRight {
+  padding-right: 8px;
+}
+
+/* links */
+a:link,
+a:visited {
+  color: #275179;
+  text-decoration: underline;
+  border-style: none;
+  outline: none;
+  -moz-outline-style: none;
+}
+a:active,
+a:hover,
+a:focus {
+  color: #011a33;
+  text-decoration: underline;
+  border-style: none;
+  outline: none;
+  -moz-outline-style: none;
+}
+
+/* site structure */
+div#header {
+  width: 100%;
+  border-bottom: 4px solid #78a431;
+}
+div#header table {
+  width: 960px;
+  margin: 0 auto;
+}
+div#header table td {
+  padding: 15px 0;
+}
+div#header table h2 {
+  color: #275179;
+  font-size: 19px;
+  line-height: 1.5em;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+div#header table h3 {
+  color: #000000;
+  font-size: 14px;
+  line-height: 2em;
+  margin: 0;
+  padding: 0;
+}
+
+div#header table td#NavBar {
+  height: 24px;
+  margin: 0;
+  padding: 0;
+  vertical-align: bottom;
+  border-left: 1px solid #cccccc;
+}
+td#NavBar ul {
+  display: block;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+td#NavBar ul li {
+  display: block;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  float: left;
+}
+td#NavBar ul li div {
+  position: relative;
+  z-index: 99;
+}
+td#NavBar ul li div ul {
+  position: absolute;
+  z-index: 99;
+  top: 27px;
+  left: 0;
+  visibility: hidden;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+td#NavBar ul li div ul li {
+  display: block;
+  float: none;
+  margin: 0;
+  padding: 0;
+}
+td#NavBar ul li div ul#nav-capital {
+  width: 188px;
+}
+
+td#NavBar ul li a {
+  display: block;
+  float: left;
+  padding: 0 13px 0 12px;
+  border: 1px solid #cccccc;
+  border-width: 1px 1px 0 0;
+  background: url('/images/bg_NavBar.jpg') repeat-x 0 0;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 26px;
+  height: 26px;
+  text-decoration: none;
+}
+td#NavBar ul li a:link,
+td#NavBar ul li a:visited {
+  color: #fff;
+}
+td#NavBar ul li a:active,
+td#NavBar ul li a:hover,
+td#NavBar ul li a.active {
+  color: #fff;
+  background: url('/images/bg_NavBar_active.jpg') repeat-x 0 0;
+}
+td#NavBar ul li div ul li a {
+  display: block;
+  float: none;
+  font-size: 11px;
+  line-height: 28px;
+  height: 28px;
+  border: 1px solid #ccc;
+  border-width: 0 1px 1px;
+}
+td#NavBar ul li div ul li a:link,
+td#NavBar ul li div ul li a:visited {
+  color: #000;
+  background: #ededed;
+}
+td#NavBar ul li div ul li a:active,
+td#NavBar ul li div ul li a:hover {
+  color: #fff;
+  background: url('/images/bg_NavBar_active.jpg') repeat-x 0 0;
+}
+
+td#NavBar ul li div ul li a.first,
+td#NavBar ul li div ul li a.first:hover {
+  border-top: 4px solid #78a431;
+}
+
+div#content {
+  width: 960px;
+  min-height: 400px;
+  margin: 0 auto;
+  padding: 15px 0;
+}
+
+div#banner {
+  width: 660px;
+  height: 200px;
+  background: url('/images/banner.jpg') no-repeat;
+  margin: 0 0 20px 0;
+  border: 1px solid #cccccc;
+}
+
+td#leftContent {
+  width: 660px;
+  vertical-align: top;
+  padding: 0;
+  border-right: 1px solid #d8e9bb;
+  padding-right: 10px;
+}
+td#leftContent h1 {
+  margin: 0 0 8px 0;
+}
+td#rightContent {
+  width: 200px;
+  vertical-align: top;
+  padding: 0 0 0 15px;
+}
+td#rightContent h2 {
+  margin: 0 0 5px 0;
+  padding: 0;
+}
+td#rightContent hr {
+  margin: 10px 0;
+  height: 1px;
+  border: 0;
+  color: #d8e9bb;
+  background: #d8e9bb;
+}
+td#rightContent td {
+  font-size: 11px;
+  line-height: 1.5em;
+}
+
+div#ctaBox {
+  padding: 4px;
+  border: 1px solid #cccccc;
+  margin-bottom: 15px;
+}
+div#ctaBox table {
+  margin: 0;
+}
+div#ctaBoxInner {
+  min-height: 190px;
+  background: #d8e9bb url('/images/bg_ctaBoxInner.jpg') no-repeat 50% 50%;
+}
+div#ctaBoxInner td {
+  color: #000;
+  font-size: 12px;
+  padding: 15px;
+}
+
+div#footer {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 10px;
+  padding: 10px 0;
+  color: #666;
+  border-top: 1px solid #d8e9bb;
+}
+div#footer a {
+  color: #275179;
+  text-decoration: none;
+}
+div#footer a:hover {
+  color: #78a431;
+  text-decoration: none;
+}
+
+/* element specific */
+div#BottomLogos {
+  text-align: center;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+div#BottomLogos td {
+  padding: 10px 30px;
+  text-align: center;
+  vertical-align: middle;
+}
+/*
+     FILE ARCHIVED ON 09:31:17 Dec 28, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:59:18 Oct 06, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 81.058
+  exclusion.robots: 0.08
+  exclusion.robots.policy: 0.071
+  cdx.remote: 0.067
+  esindex: 0.013
+  LoadShardBlock: 56.636 (3)
+  PetaboxLoader3.datanode: 78.027 (4)
+  load_resource: 245.901
+  PetaboxLoader3.resolve: 196.812
+*/
