@@ -1,0 +1,71 @@
+table.Contact td {
+  vertical-align: top;
+}
+
+table.Contact td.label {
+  width: 150px;
+  font-weight: bold;
+}
+
+table.Contact input.contact_text {
+  width: 250px;
+}
+
+table.Contact input.contact_text_sm {
+  width: 66px;
+}
+
+table.Contact textarea {
+  width: 250px;
+  height: 80px;
+}
+
+table.Contact td.label em {
+  color: #af0000;
+}
+
+table.Contact p.warning {
+  font-size: 11px;
+  color: #af0007;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 2px;
+  background-color: #fffbcf;
+}
+
+table.Contact div#errors {
+  border: 1px solid #af0000;
+  background-color: #ffefef;
+  font-weight: bold;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+* .messageSuccess {
+  font-weight: bold;
+  color: #78a431;
+}
+* .messageWarning {
+  font-weight: bold;
+  color: #ff0000;
+}
+/*
+     FILE ARCHIVED ON 23:36:53 Aug 16, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:23:33 Oct 07, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 128.164
+  exclusion.robots: 0.102
+  exclusion.robots.policy: 0.091
+  cdx.remote: 0.061
+  esindex: 0.009
+  LoadShardBlock: 81.89 (3)
+  PetaboxLoader3.datanode: 99.944 (4)
+  load_resource: 74.36
+  PetaboxLoader3.resolve: 51.095
+*/
