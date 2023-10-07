@@ -38,26 +38,26 @@
 		<tr>
 			<td align="left"><a href="Home"><img src="images/logo.jpg" alt="VentureNet Capital Group, Inc." title="VentureNet Capital Group, Inc." border="0" class="logo" /></a></td>
 			<td align="right">
-				<h3><v:edit id="102" src="inc/header.html">CAPITAL for&nbsp;PUBLIC COMPANIES</v:edit></h3>
-				<v:edit id="103" src="inc/header.html">5190 Neil Road, Suite 430 | Reno, Nevada  89502<br />Office: 775-333-5928 | Fax: 775-329-0852</v:edit></div>
+				<h3><v:edit id="102" src="inc/header">CAPITAL for&nbsp;PUBLIC COMPANIES</v:edit></h3>
+				<v:edit id="103" src="inc/header">5190 Neil Road, Suite 430 | Reno, Nevada  89502<br />Office: 775-333-5928 | Fax: 775-329-0852</v:edit></div>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="2" id="NavBar">
 			<ul>
-				<li><a href="index.html" title="Home" >Home</a></li>
-				<li><a href="about-us.html" title="About Us" >About Us</a></li>
-				<li><a href="capital-for-public-companies.html" title="Capital for Public Companies" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)" >Capital for Public Companies</a><div><ul id="nav-capital">
+				<li><a href="index" title="Home" >Home</a></li>
+				<li><a href="about-us" title="About Us" >About Us</a></li>
+				<li><a href="capital-for-public-companies" title="Capital for Public Companies" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)" >Capital for Public Companies</a><div><ul id="nav-capital">
 					<li><a href="capital-for-public-companies.html#pipe" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)">PIPE Financing</a></li>
 					<li><a href="capital-for-public-companies.html#stock-loans" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)">Stock Loans</a></li>
 					<li><a href="capital-for-public-companies.html#nontox" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)">Equity Lines of Credit</a></li>
 					<li><a href="capital-for-public-companies.html#aged-debt" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)">Aged Debt Purchasing</a></li>
 				</ul></div></li>
-				<li><a href="reverse-mergers.html" title="Reverse Mergers" >Reverse Mergers</a></li>
-				<li><a href="media-marketing-services-for-public-companies.html" title="Media Marketing Services for Public Companies" >Media Marketing Services</a></li>
-				<li><a href="wall-street-news-hour.html" title="Wall Street News Hour" >Wall Street News Hour</a></li>
- 				<li><a href="resources.html" title="Resources" >Resources</a></li>
-				<li><a href="contact-us.html" title="Contact Us" >Contact Us</a></li>
+				<li><a href="reverse-mergers" title="Reverse Mergers" >Reverse Mergers</a></li>
+				<li><a href="media-marketing-services-for-public-companies" title="Media Marketing Services for Public Companies" >Media Marketing Services</a></li>
+				<li><a href="wall-street-news-hour" title="Wall Street News Hour" >Wall Street News Hour</a></li>
+ 				<li><a href="resources" title="Resources" >Resources</a></li>
+				<li><a href="contact-us" title="Contact Us" >Contact Us</a></li>
 			</ul></td>
 		</tr>
 	</table>
@@ -77,22 +77,22 @@
 			<!-- Begin Right Content Area -->
 				<div id="ctaBox">
 					<div id="ctaBoxInner">
-						<table width="100%" cellpadding="0" cellspacing="0" border="0" ve="301" src="inc/sidebar.html">
+						<table width="100%" cellpadding="0" cellspacing="0" border="0" ve="301" src="inc/sidebar">
 							<tr>
 								<td>
-								<span class="Header">Request A Quote</span><br><br>To speak with us about our services and learn about our pricing, contact us today.<br><br><a href="request-a-quote.html">Next steps ></a><br><a href="for-stock-loans.html">For Stock Loans ></a>
+								<span class="Header">Request A Quote</span><br><br>To speak with us about our services and learn about our pricing, contact us today.<br><br><a href="request-a-quote">Next steps ></a><br><a href="for-stock-loans">For Stock Loans ></a>
 								</td>
 							</tr>
 						</table ve="301">
 					</div>
 				</div>
-				<h2><v:edit id="201" src="inc/sidebar.html">Company News</v:edit></h2>
-				<table width="100%" cellpadding="0" cellspacing="0" border="0" ve="20" src="inc/sidebar.html"><TBODY>
+				<h2><v:edit id="201" src="inc/sidebar">Company News</v:edit></h2>
+				<table width="100%" cellpadding="0" cellspacing="0" border="0" ve="20" src="inc/sidebar"><TBODY>
 <TR>
 <TD>Check back soon for company updates or <A href="http://mikebrette.wordpress.com/#Visit our Blog" target=_blank>read our blog</A>. </TD></TR></TBODY></table ve="20">
 				<hr>
-				<h2><v:edit id="501" src="inc/sidebar.html">Follow Us</v:edit></h2>
-				<table width="100%" cellpadding="0" cellspacing="0" border="0" ve="40" src="inc/sidebar.html"><TBODY>
+				<h2><v:edit id="501" src="inc/sidebar">Follow Us</v:edit></h2>
+				<table width="100%" cellpadding="0" cellspacing="0" border="0" ve="40" src="inc/sidebar"><TBODY>
 <TR>
 <TD class=PadRight>&nbsp;&nbsp;&nbsp;<BR>&nbsp; <A href="http://www.moneytv.net/frontpage.htm" target=_blank _self><IMG border=0 alt="Money TV" src="/images/moneytvlogo2sm1.jpg" width=134 height=25></A>&nbsp;<BR><FONT color=#0033cc>&nbsp;&nbsp; <A href="http://www.moneytv.net/frontpage.htm" _self><FONT color=#0033cc>Follow us &gt;</FONT></A><BR><BR>&nbsp;<BR>&nbsp; <A href="http://solutions.standardandpoors.com/NASApp/WS/EntryServlet?pc=IVS&amp;tracking=IVSLUCAS_ENERGY_INC&amp;auth=user&amp;pagename=encrStockReportPDF&amp;company=158025151179072031198074202064059034116115122067" target=_blank _self><IMG border=0 alt="Standard and Poors" src="/images/Standard_and_Poors_Logo_1.jpg" width=120 height=41></A><BR>&nbsp; <A href="http://www.standardandpoors.com/home/en/us" _self>Follow&nbsp;us &gt;</A><BR><BR>&nbsp;<BR><STRONG>&nbsp;&nbsp;&nbsp;&nbsp;<A href="http://www.abanet.org/" target=_blank><U>ABA Number</U>: 00720139</A><BR><A href="http://www.abanet.org/" target=_blank><IMG border=0 alt="American Bar Assoc" src="/images/American_Bar_Assoc.jpg" width=146 height=27></A><BR><BR><BR><BR><BR><BR><BR><BR><BR></STRONG></FONT><BR></TD>
 <TD class="LeftGrayBorder PadLeft"><A href="http://mikebrette.wordpress.com" target=_blank><BR><IMG class=FloatLeft border=0 src="images/logo-wp.png"></A><A href="http://mikebrette.wordpress.com">Follow us</A><A href="http://mikebrette.wordpress.com"> &gt;</A><BR><BR><BR><A href="http://www.linkedin.com/in/vntncapital" target=_blank><IMG class=FloatLeft border=0 src="/images/logo-linkedin.png"></A><A href="http://www.linkedin.com/in/vntncapital">Follow us &gt;</A><BR><BR><BR><BR><BR><BR>&nbsp;<BR><BR><BR><BR><BR><BR><BR></TD></TR></TBODY></table ve="40">			<!-- End Right Content Area -->
@@ -101,14 +101,14 @@
 	</table>
 </div>
 <div id="footer">
-	<a href="index.html" title="Home">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="about-us.html" title="About Us">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="capital-for-public-companies.html" title="Capital for Public Companies">Capital for Public Companies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="reverse-mergers.html" title="Reverse Mergers">Reverse Mergers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="media-marketing-services-for-public-companies.html" title="Media Marketing Services for Public Companies">Media Marketing Services</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="wall-street-news-radio-hour.html" title="Wall Street News Radio Hour">Wall Street News Radio Hour</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="contact-us.html" title="Contact Us">Contact Us</a><br />
-	<v:edit id="99" src="inc/footer.html">5190 Neil Road, Suite 430 | Reno, Nevada  89502<br />Office: 775-333-5928 | Fax: 775-329-0852<br>&copy; 2010 vntrnet.com. All rights reserved.</v:edit>
+	<a href="index" title="Home">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="about-us" title="About Us">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="capital-for-public-companies" title="Capital for Public Companies">Capital for Public Companies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="reverse-mergers" title="Reverse Mergers">Reverse Mergers</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="media-marketing-services-for-public-companies" title="Media Marketing Services for Public Companies">Media Marketing Services</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="wall-street-news-radio-hour" title="Wall Street News Radio Hour">Wall Street News Radio Hour</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+	<a href="contact-us" title="Contact Us">Contact Us</a><br />
+	<v:edit id="99" src="inc/footer">5190 Neil Road, Suite 430 | Reno, Nevada  89502<br />Office: 775-333-5928 | Fax: 775-329-0852<br>&copy; 2010 vntrnet.com. All rights reserved.</v:edit>
 </div>
 
 <script type="text/javascript">

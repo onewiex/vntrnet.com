@@ -38,26 +38,26 @@
 		<tr>
 			<td align="left"><a href="Home"><img src="images/logo.jpg" alt="VentureNet Capital Group, Inc." title="VentureNet Capital Group, Inc." border="0" class="logo" /></a></td>
 			<td align="right">
-				<h3><v:edit id="102" src="inc/header.html">CAPITAL for&nbsp;PUBLIC COMPANIES</v:edit></h3>
-				<v:edit id="103" src="inc/header.html">5190 Neil Road, Suite 430 | Reno, Nevada  89502<br />Office: 775-333-5928 | Fax: 775-329-0852</v:edit></div>
+				<h3><v:edit id="102" src="inc/header">CAPITAL for&nbsp;PUBLIC COMPANIES</v:edit></h3>
+				<v:edit id="103" src="inc/header">5190 Neil Road, Suite 430 | Reno, Nevada  89502<br />Office: 775-333-5928 | Fax: 775-329-0852</v:edit></div>
 			</td>
 		</tr>
 		<tr>
 			<td colspan="2" id="NavBar">
 			<ul>
-				<li><a href="index.html" title="Home" >Home</a></li>
-				<li><a href="about-us.html" title="About Us" >About Us</a></li>
-				<li><a href="capital-for-public-companies.html" title="Capital for Public Companies" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)" >Capital for Public Companies</a><div><ul id="nav-capital">
+				<li><a href="index" title="Home" >Home</a></li>
+				<li><a href="about-us" title="About Us" >About Us</a></li>
+				<li><a href="capital-for-public-companies" title="Capital for Public Companies" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)" >Capital for Public Companies</a><div><ul id="nav-capital">
 					<li><a href="capital-for-public-companies.html#pipe" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)">PIPE Financing</a></li>
 					<li><a href="capital-for-public-companies.html#stock-loans" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)">Stock Loans</a></li>
 					<li><a href="capital-for-public-companies.html#nontox" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)">Equity Lines of Credit</a></li>
 					<li><a href="capital-for-public-companies.html#aged-debt" onmouseover="dropdown('nav-capital',1)" onmouseout="dropdown('nav-capital',0)">Aged Debt Purchasing</a></li>
 				</ul></div></li>
-				<li><a href="reverse-mergers.html" title="Reverse Mergers" >Reverse Mergers</a></li>
-				<li><a href="media-marketing-services-for-public-companies.html" title="Media Marketing Services for Public Companies" >Media Marketing Services</a></li>
-				<li><a href="wall-street-news-hour.html" title="Wall Street News Hour" >Wall Street News Hour</a></li>
- 				<li><a href="resources.html" title="Resources" >Resources</a></li>
-				<li><a href="contact-us.html" title="Contact Us" >Contact Us</a></li>
+				<li><a href="reverse-mergers" title="Reverse Mergers" >Reverse Mergers</a></li>
+				<li><a href="media-marketing-services-for-public-companies" title="Media Marketing Services for Public Companies" >Media Marketing Services</a></li>
+				<li><a href="wall-street-news-hour" title="Wall Street News Hour" >Wall Street News Hour</a></li>
+ 				<li><a href="resources" title="Resources" >Resources</a></li>
+				<li><a href="contact-us" title="Contact Us" >Contact Us</a></li>
 			</ul></td>
 		</tr>
 	</table>
