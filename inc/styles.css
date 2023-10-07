@@ -193,7 +193,7 @@ td#NavBar ul li a {
   padding: 0 13px 0 12px;
   border: 1px solid #cccccc;
   border-width: 1px 1px 0 0;
-  background: url('/images/bg_NavBar.jpg') repeat-x 0 0;
+  background: url('images/bg_NavBar.jpg') repeat-x 0 0;
   font-size: 12px;
   font-weight: bold;
   line-height: 26px;
@@ -208,7 +208,7 @@ td#NavBar ul li a:active,
 td#NavBar ul li a:hover,
 td#NavBar ul li a.active {
   color: #fff;
-  background: url('/images/bg_NavBar_active.jpg') repeat-x 0 0;
+  background: url('images/bg_NavBar_active.jpg') repeat-x 0 0;
 }
 td#NavBar ul li div ul li a {
   display: block;
@@ -227,7 +227,7 @@ td#NavBar ul li div ul li a:visited {
 td#NavBar ul li div ul li a:active,
 td#NavBar ul li div ul li a:hover {
   color: #fff;
-  background: url('/images/bg_NavBar_active.jpg') repeat-x 0 0;
+  background: url('images/bg_NavBar_active.jpg') repeat-x 0 0;
 }
 
 td#NavBar ul li div ul li a.first,
@@ -245,7 +245,7 @@ div#content {
 div#banner {
   width: 660px;
   height: 200px;
-  background: url('/images/banner.jpg') no-repeat;
+  background: url('images/banner.jpg') no-repeat;
   margin: 0 0 20px 0;
   border: 1px solid #cccccc;
 }
@@ -291,7 +291,7 @@ div#ctaBox table {
 }
 div#ctaBoxInner {
   min-height: 190px;
-  background: #d8e9bb url('/images/bg_ctaBoxInner.jpg') no-repeat 50% 50%;
+  background: #d8e9bb url('images/bg_ctaBoxInner.jpg') no-repeat 50% 50%;
 }
 div#ctaBoxInner td {
   color: #000;
